@@ -1,6 +1,6 @@
-📑 Table of Contents
+# 📑 Table of Contents
 
-Project Overview
+## Project Overview
 
 Features
 
@@ -24,12 +24,12 @@ Validation & Testing
 
 Future Improvements
 
-🚀 Project Overview
+# 🚀 Project Overview
 
 A fully responsive product showcase website built with HTML5, CSS3, and JavaScript.
 This project demonstrates semantic HTML structure, modern CSS styling (including animations, flex/grid layouts), and interactive JavaScript (form validation, animated navigation, and dynamic content).
 
-✨ Features
+# ✨ Features
 
 Consistent Header & Footer across all pages.
 
@@ -55,7 +55,7 @@ On-scroll animations for smooth content appearance.
 
 Sticky footer that always sits at the bottom.
 
-📂 Project Structure
+# 📂 Project Structure
 product-showcase/
 │
 ├── index.html          # Home page
@@ -73,8 +73,8 @@ product-showcase/
 │
 └── README.md           # Documentation (this file)
 
-🖼️ Pages & Layout
-1. Home (index.html)
+# 🖼️ Pages & Layout
+## 1. Home (index.html)
 
 Hero section with headline, intro text, CTA buttons.
 
@@ -82,19 +82,19 @@ Grid layout with product highlights.
 
 Smooth entrance animations.
 
-2. About (about.html)
+## 2. About (about.html)
 
 Company introduction.
 
 Mission/vision sections with text and images.
 
-3. Products (products.html)
+## 3. Products (products.html)
 
 Product cards styled with shadows and hover effects.
 
 Grid layout for multiple products.
 
-4. Contact (contact.html)
+## 4. Contact (contact.html)
 
 Styled form with inputs: Name, Email, Message.
 
@@ -102,7 +102,7 @@ Inline validation (required fields, valid email check).
 
 Success animation and reset button.
 
-5. Shared Layout
+## 5. Shared Layout
 
 Header: Logo + Navigation links (Home, About, Products, Contact).
 
@@ -136,7 +136,7 @@ Error messages styled in red.
 
 Success message styled in green with fade-in.
 
-⚡ Interactivity (JavaScript)
+# ⚡ Interactivity (JavaScript)
 
 Dynamic Year
 
@@ -172,7 +172,7 @@ If valid: form fades out → thank-you message fades in.
 
 A "Send Another Message" button lets users reset and resubmit.
 
-📱 Responsive Design
+# 📱 Responsive Design
 
 Mobile-first approach.
 
@@ -186,7 +186,7 @@ Hero grid stacks vertically.
 
 Cards adjust to single column.
 
-📝 Form Validation & Success Flow
+# 📝 Form Validation & Success Flow
 
 User submits form.
 
@@ -216,7 +216,7 @@ Resets form values.
 
 Displays form again.
 
-▶️ How to Run
+# ▶️ How to Run
 
 Download the project folder.
 
@@ -226,7 +226,7 @@ Navigate using header links.
 
 Test responsiveness by resizing the browser or opening on a mobile device.
 
-🛠️ Customization Guide
+# 🛠️ Customization Guide
 
 Colors & Theme:
 Edit in style.css. Example:
@@ -252,7 +252,7 @@ Backend server with PHP/Node/Python.
 Animations:
 Adjust timing in style.css and main.js.
 
-✅ Validation & Testing
+# ✅ Validation & Testing
 
 Run W3C HTML Validator
  on .html files.
@@ -266,7 +266,7 @@ Chrome DevTools → Device Toolbar.
 
 Resize to phone, tablet, and desktop sizes.
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 
 Dark mode toggle.
 
@@ -278,7 +278,7 @@ Form backend integration (real submissions).
 
 Accessibility improvements (ARIA labels, focus management).
 
-✨ This project serves as a base template for a professional, responsive product showcase site.
+# ✨ This project serves as a base template for a professional, responsive product showcase site.
 It can be expanded with additional features, theming, and backend integrations as needed.
 
 
